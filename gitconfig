@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alji1205@gmail.com
+	name = Jeongmin Lee
